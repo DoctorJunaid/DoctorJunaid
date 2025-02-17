@@ -21,8 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctorjunaid&show_icons=true&locale=en&layout=compact" alt="doctorjunaid" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorJunaid&layout=compact)](https://github.com/DoctorJunaid/github-readme-stats)
-
 <!--
 **DoctorJunaid/DoctorJunaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
