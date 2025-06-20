@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 👨‍💻 All of my projects are available at [https://doctorjunaid.vercel.app/](https://doctorjunaid.vercel.app/)
+- 👨‍💻My portfolio website (https://muhammadjunaidportfolio.vercel.app/)
 
 - 📫 How to reach me **junaid.aurangzeb1@gmail.com**
 
