@@ -44,7 +44,7 @@ I am a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doctorjunaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981" alt="GitHub Stats" width="48%" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=doctorjunaid&theme=gruvbox" alt="GitHub Streak" /></a>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=doctorjunaid&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444&currStreakLabel=10B981" alt="GitHub Streak" width="48%" />
 </div>
