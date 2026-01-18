@@ -44,14 +44,14 @@ I am a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doctorjunaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444&currStreakLabel=10B981" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doctorjunaid&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=EF4444&currStreakLabel=10B981" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorjunaidE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
