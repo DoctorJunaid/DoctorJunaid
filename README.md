@@ -51,7 +51,7 @@ I am a **Full Stack Developer** specializing in the **MERN Stack** and **Next.js
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorjunaidE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorjunaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
